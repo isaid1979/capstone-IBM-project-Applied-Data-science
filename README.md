@@ -1,1 +1,1 @@
-# capstone-IBM-project-Applied-Data-science
+# Capstone Project - Car accident severity
